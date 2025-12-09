@@ -17,7 +17,6 @@ export default function Index() {
           <Ionicons name="play-outline" size={16} color={colorScheme == 'dark' ? '#fff' : '#333'} />
           <Text className="text-foreground">Guarda il tutorial</Text>
         </Button>
-        
       </View>
     </SafeAreaView>
   );
